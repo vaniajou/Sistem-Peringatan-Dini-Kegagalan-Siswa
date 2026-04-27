@@ -9,10 +9,5 @@ Tugas Mata Kuliah: Pemelajaran Mesin (Minggu 3-4)
 **Deskripsi Proyek:**
 Proyek ini bertujuan untuk mendeteksi dini risiko kegagalan siswa pada mata pelajaran Matematika menggunakan algoritma klasifikasi *Supervised Learning*.
 
-**Algoritma yang Digunakan:**
-* K-Nearest Neighbors (K-NN)
-* Decision Tree
-* Random Forest
-
 **Dataset:** 
 Student Performance Dataset (Kaggle)
