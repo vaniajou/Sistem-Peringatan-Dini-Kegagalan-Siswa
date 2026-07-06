@@ -1,5 +1,5 @@
 # Sistem Peringatan Dini Risiko Kegagalan Akademik Siswa
-Tugas Mata Kuliah: Pemelajaran Mesin (Minggu 3-4)
+Tugas Mata Kuliah: Pemelajaran Mesin 
 
 **Kelompok:**
 1. Pinkan Dea Sastri Yuliana (1462400153)
